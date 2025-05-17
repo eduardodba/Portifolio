@@ -1,3 +1,20 @@
+Autor: Eduardo R. Babieri
+
+Descrição: Este projeto permite o acompanhamento automatizado da sua carteira de criptomoedas via planilha no Google Sheets, 
+integrando com um bot no Telegram para envio de análises diárias, mensais e de alocação. 
+A ferramenta utiliza scripts em Google Apps Script e webhooks para entregar informações com base no histórico de aportes e valores de mercado.
+
+Funcionalidades:
+Registro e consolidação automática de aportes.
+Armazenamento diário do histórico de ativos.
+Geração automática de análises da carteira com base na performance.
+Envio de mensagens via Telegram com comandos personalizados:
+   /analise diária
+   /analisemensal do mês anterior
+   /alocacao da distribuição de ativos
+
+
+
 1. Copie a planilha "Carteira Cripto - Modelo" para o seu Google Drive
 
 

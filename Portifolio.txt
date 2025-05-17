@@ -80,3 +80,13 @@ Envio de mensagens via Telegram com comandos personalizados:
    6.3 /alocacao - Comando para gerar uma analise da distribuicao do portifolio
 
     
+7. Adicionar novos ativos na planilha para cotacao
+   7.1 Va em exibir todas as paginas da planilha / Moedas
+   7.2 Cadastre novos ativos caso seja necessário
+       Cripto sao exibidos através da api Cryptocompare
+       Acoes sao coletados atraves da formula abaixo:
+      =IMPORTXML("https://www.infomoney.com.br/cotacoes/nasdaq/acao/microstrategy-incorporated-class-a-mstr/";"/html/body/div[4]/div/div[1]/div[1]/div/div[3]/div[1]/p")
+      Video que ensina a criar - https://www.youtube.com/watch?v=xAuinPQmbM8
+
+
+   

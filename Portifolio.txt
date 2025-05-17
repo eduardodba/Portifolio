@@ -14,6 +14,8 @@ Envio de mensagens via Telegram com comandos personalizados:
    /alocacao da distribuição de ativos
 
 
+Link da Planilha: https://docs.google.com/spreadsheets/d/14hXb3pmjo9cBIN3bhKOuy1Ss6cgODZ0KKq3BNan1Ays/edit?usp=sharing
+
 
 1. Copie a planilha "Carteira Cripto - Modelo" para o seu Google Drive
 
